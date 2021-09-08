@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+    background-color: rgb(216, 199, 47);
+}
+h1
+{
+    -moz-text-decoration-style: solid;
+}
+h2
+{
+    text-shadow: black;
+}
